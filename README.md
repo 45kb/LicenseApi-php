@@ -2,15 +2,15 @@
  
  # Requirements
  
-Install [PHPunit](https://phpunit.de/) on the machine
-
+Install [PHPunit](https://phpunit.de/) on your machine
+Clone this repository smoewhere on your machine
 
 # Test
-In order to run tests be sure to have PHPunit installed on your machine and from your terminal locate the files folder like this:
+From the terminal, enter the repository directory:
 
- `$ cd LicenseApiFolder/`
+ `$ cd LicenseApi-php/`
 
-Then run this command:
+Then run tests with this command:
 
  `$ phpunit LicenseApiTest.php`
 
