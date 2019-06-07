@@ -4,7 +4,7 @@
  
 Install [PHPunit](https://phpunit.de/) on your machine
 
-Clone this repository smoewhere on your machine
+Clone this repository on your machine in a folder of your choice.
 
 # Test
 From the terminal, enter the repository directory:
